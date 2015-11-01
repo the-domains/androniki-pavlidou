@@ -1,0 +1,23 @@
+name: Androniki Pavlidou
+favicon: null
+layout_spectrum: 0.8635346298106015
+typography_spectrum: 0.7516320797149092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.0293473897036165
+  lightness: 0.8302243780344725
+  saturation: 0.1578670390881598
+  rhythmicContrast: 0.7580779215786606
+purpose: []
