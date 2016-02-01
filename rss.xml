@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Androniki Pavlidou Innovation and Tech Picks!]]></title>
+        <description><![CDATA[Androniki Pavlidou Innovation and Tech Picks!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 18:56:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's Up with Apple's Virtual Reality Plans?]]></title>
+            <description><![CDATA[<article><h1>What's Up with Apple's Virtual Reality Plans?</h1><p>Apple's quietly building a small army of virtual reality developers, and has been working on a headset for several months, but it's been typically vague about its plans with the public. And on Friday, company representatives confirmed it's made yet another another acquisition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634b5a297ec39029842b51b00bc7b596a4d0c04d.jpg"></article>]]></description>
+            <link>https://www.inverse.com/article/10843-what-s-up-with-apple-s-virtual-reality-plans</link>
+            <guid isPermaLink="false">2a2c0135-e9e7-4bc5-9b50-7a8391237377</guid>
+            <pubDate>Mon, 01 Feb 2016 18:56:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
