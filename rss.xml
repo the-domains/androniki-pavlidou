@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Androniki Pavlidou Innovation and Tech Picks!]]></title>
         <description><![CDATA[Androniki Pavlidou Innovation and Tech Picks!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/androniki-pavlidou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 18:56:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 19:53:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/androniki-pavlidou/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9e96527-609c-403d-8454-a9374bacb84b.jpg">]]></description>
+            <link>https://thegrid.ai/androniki-pavlidou/5ce6053e-0f82-4df4-8965-993840aa543d/index.html</link>
+            <guid isPermaLink="false">5ce6053e-0f82-4df4-8965-993840aa543d</guid>
+            <pubDate>Mon, 01 Feb 2016 19:53:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's Up with Apple's Virtual Reality Plans?]]></title>
-            <description><![CDATA[<article><h1>What's Up with Apple's Virtual Reality Plans?</h1><p>Apple's quietly building a small army of virtual reality developers, and has been working on a headset for several months, but it's been typically vague about its plans with the public. And on Friday, company representatives confirmed it's made yet another another acquisition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634b5a297ec39029842b51b00bc7b596a4d0c04d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What's Up with Apple's Virtual Reality Plans?</h1><p>Apple's quietly building a small army of virtual reality developers, and has been working on a headset for several months, but it's been typically vague about its plans with the public. And on Friday, company representatives confirmed it's made yet another another acquisition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4da0df089fdfd4fcfa59874edb4a8f00fa14de3.jpg"></article>]]></description>
             <link>https://www.inverse.com/article/10843-what-s-up-with-apple-s-virtual-reality-plans</link>
             <guid isPermaLink="false">2a2c0135-e9e7-4bc5-9b50-7a8391237377</guid>
             <pubDate>Mon, 01 Feb 2016 18:56:28 GMT</pubDate>
